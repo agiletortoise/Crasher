@@ -22,6 +22,7 @@
 		3711BB2B185A6B0C00831919 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3711BB0A185A6B0C00831919 /* UIKit.framework */; };
 		3711BB33185A6B0C00831919 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3711BB31185A6B0C00831919 /* InfoPlist.strings */; };
 		3711BB35185A6B0C00831919 /* CrasherTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3711BB34185A6B0C00831919 /* CrasherTests.m */; };
+		3711BB3F185A6CE600831919 /* README.markdown in Resources */ = {isa = PBXBuildFile; fileRef = 3711BB3E185A6CE600831919 /* README.markdown */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		3711BB30185A6B0C00831919 /* CrasherTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CrasherTests-Info.plist"; sourceTree = "<group>"; };
 		3711BB32185A6B0C00831919 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3711BB34185A6B0C00831919 /* CrasherTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CrasherTests.m; sourceTree = "<group>"; };
+		3711BB3E185A6CE600831919 /* README.markdown */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.markdown; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 		3711BAFA185A6B0C00831919 = {
 			isa = PBXGroup;
 			children = (
+				3711BB3E185A6CE600831919 /* README.markdown */,
 				3711BB0C185A6B0C00831919 /* Crasher */,
 				3711BB2E185A6B0C00831919 /* CrasherTests */,
 				3711BB05185A6B0C00831919 /* Frameworks */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3711BB3F185A6CE600831919 /* README.markdown in Resources */,
 				3711BB1D185A6B0C00831919 /* Main_iPad.storyboard in Resources */,
 				3711BB22185A6B0C00831919 /* Images.xcassets in Resources */,
 				3711BB1A185A6B0C00831919 /* Main_iPhone.storyboard in Resources */,
